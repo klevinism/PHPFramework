@@ -1,0 +1,1 @@
+<img src="images/franceState.png"style="width:100%"/>

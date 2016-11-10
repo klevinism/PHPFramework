@@ -1,0 +1,383 @@
+[04-Aug-2015 06:43:26 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/delimeta/public_html/gaypage/Modules/DB.php on line 138
+[04-Aug-2015 06:43:26 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home/delimeta/public_html/gaypage/Modules/DB.php on line 141
+[04-Aug-2015 06:45:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/DB.php on line 166
+[04-Aug-2015 06:53:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 06:53:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 224
+[04-Aug-2015 07:03:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 07:07:34 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:34 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:51 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:51 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:51 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:56 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:56 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:07:56 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:28:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 223
+[04-Aug-2015 07:28:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 223
+[04-Aug-2015 07:28:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 223
+[04-Aug-2015 07:38:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:38:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:38:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:39:35 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:39:35 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:39:35 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:40:10 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:40:10 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:40:10 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 164
+[04-Aug-2015 07:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 07:41:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 07:41:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 07:51:50 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:51:50 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:51:50 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:51:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:51:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 07:51:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:24:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:24:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:24:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:24:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:24:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:24:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:27:43 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 144
+[04-Aug-2015 16:27:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:27:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:27:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:27:47 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home/delimeta/public_html/gaypage/Modules/DB.php on line 144
+[04-Aug-2015 16:27:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:27:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:27:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/delimeta/public_html/gaypage/Modules/DB.php on line 163
+[04-Aug-2015 16:32:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 16:32:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 16:32:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 16:32:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[04-Aug-2015 16:32:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/delimeta/public_html/gaypage/Modules/DB.php on line 54
+[24-Aug-2015 03:48:33 America/Chicago] PHP Fatal error:  Call to a member function Auth() on a non-object in /home/delimeta/public_html/gaypage/Modules/Auth1.php on line 58
+[24-Aug-2015 03:48:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delimeta/public_html/gaypage/Modules/Auth1.php:36) in /home/delimeta/public_html/gaypage/Modules/SessionClass.php on line 23
+[24-Aug-2015 03:48:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delimeta/public_html/gaypage/Modules/Auth1.php:36) in /home/delimeta/public_html/gaypage/Modules/SessionClass.php on line 23
+[24-Aug-2015 03:48:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delimeta/public_html/gaypage/Modules/Auth1.php:36) in /home/delimeta/public_html/gaypage/Modules/SessionClass.php on line 23
+[24-Aug-2015 03:48:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delimeta/public_html/gaypage/Modules/Auth1.php:36) in /home/delimeta/public_html/gaypage/Modules/SessionClass.php on line 23
+[24-Aug-2015 03:51:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/delimeta/public_html/gaypage/Modules/Auth1.php on line 36
+[26-Aug-2015 08:15:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 6
+[26-Aug-2015 08:15:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting identifier (T_STRING) in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 11
+[26-Aug-2015 08:15:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting identifier (T_STRING) in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 11
+[26-Aug-2015 08:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting identifier (T_STRING) in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 11
+[26-Aug-2015 08:16:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting identifier (T_STRING) in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 11
+[26-Aug-2015 08:16:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting identifier (T_STRING) in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 11
+[26-Aug-2015 08:16:57 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 08:16:57 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 36
+[26-Aug-2015 08:16:57 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:17:12 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 08:17:12 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 36
+[26-Aug-2015 08:17:12 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:17:15 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 08:17:15 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 36
+[26-Aug-2015 08:17:15 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:17:18 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 08:17:18 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 36
+[26-Aug-2015 08:17:18 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:17:39 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 08:17:39 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 36
+[26-Aug-2015 08:17:39 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:18:46 America/Chicago] PHP Warning:  imagepng(/home/delimeta/public_html/gaypage/Uploader/uploads/images): failed to open stream: Is a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 08:19:04 America/Chicago] PHP Warning:  imagepng(/home/delimeta/public_html/gaypage/Uploader/uploads/images/): failed to open stream: Is a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 08:19:07 America/Chicago] PHP Warning:  imagepng(/home/delimeta/public_html/gaypage/Uploader/uploads/images/): failed to open stream: Is a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 08:58:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 26
+[26-Aug-2015 08:58:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 26
+[26-Aug-2015 08:58:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 26
+[26-Aug-2015 08:58:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 26
+[26-Aug-2015 08:58:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 26
+[26-Aug-2015 08:58:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 26
+[26-Aug-2015 08:58:58 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:58:58 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 08:58:58 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 08:58:58 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 47
+[26-Aug-2015 08:58:58 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 50
+[26-Aug-2015 08:58:58 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 53
+[26-Aug-2015 08:59:00 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 08:59:00 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 08:59:00 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 08:59:00 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 47
+[26-Aug-2015 08:59:00 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 50
+[26-Aug-2015 08:59:00 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 53
+[26-Aug-2015 09:01:12 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 09:01:12 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 09:01:12 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:01:12 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 47
+[26-Aug-2015 09:01:12 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 50
+[26-Aug-2015 09:01:12 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 53
+[26-Aug-2015 09:01:17 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 09:01:17 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 09:01:17 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:01:17 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 47
+[26-Aug-2015 09:01:17 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 50
+[26-Aug-2015 09:01:17 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 53
+[26-Aug-2015 09:02:09 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 09:02:09 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 41
+[26-Aug-2015 09:02:09 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 45
+[26-Aug-2015 09:02:09 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:02:09 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:02:09 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:02:12 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 09:02:12 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 41
+[26-Aug-2015 09:02:12 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 45
+[26-Aug-2015 09:02:12 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:02:12 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:02:12 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:02:15 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 09:02:15 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 41
+[26-Aug-2015 09:02:15 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 45
+[26-Aug-2015 09:02:15 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:02:15 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:02:15 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:02:17 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 40
+[26-Aug-2015 09:02:17 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 41
+[26-Aug-2015 09:02:17 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 45
+[26-Aug-2015 09:02:17 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:02:17 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:02:17 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:02:48 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 30
+[26-Aug-2015 09:02:50 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 30
+[26-Aug-2015 09:02:52 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 30
+[26-Aug-2015 09:02:53 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 30
+[26-Aug-2015 09:05:53 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:05:53 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:05:53 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:05:55 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:05:55 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:05:55 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:06:03 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:06:03 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:06:03 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:06:23 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:06:23 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:06:23 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:06:23 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:06:23 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:06:23 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:07:01 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:07:01 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:07:01 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:07:04 America/Chicago] PHP Warning:  opendir(http://img12.deviantart.net/9180/i/2015/002/5/9/game_of__thrones___the_iron_throne_png_by_wishfulrose-d7wlw11.png): failed to open dir: not implemented in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:07:04 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:07:04 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:05 America/Chicago] PHP Warning:  opendir(C:\/Users\/klevin\/Desktop\/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:05 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:05 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:20 America/Chicago] PHP Warning:  opendir(C:\Users\klevin\Desktop\himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:20 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:20 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:21 America/Chicago] PHP Warning:  opendir(C:\Users\klevin\Desktop\himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:21 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:21 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:22 America/Chicago] PHP Warning:  opendir(C:\Users\klevin\Desktop\himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:22 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:22 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:35 America/Chicago] PHP Warning:  opendir(C:/Users/klevin/Desktop/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:35 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:35 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:36 America/Chicago] PHP Warning:  opendir(C:/Users/klevin/Desktop/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:36 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:36 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:37 America/Chicago] PHP Warning:  opendir(C:/Users/klevin/Desktop/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:37 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:37 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:56 America/Chicago] PHP Warning:  opendir(C:/Users/klevin/Desktop/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:56 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:56 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:57 America/Chicago] PHP Warning:  opendir(C:\/Users\/klevin\/Desktop\/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:57 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:57 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:58 America/Chicago] PHP Warning:  opendir(C:\/Users\/klevin\/Desktop\/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:58 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:58 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:08:59 America/Chicago] PHP Warning:  opendir(C:\/Users\/klevin\/Desktop\/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:08:59 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:08:59 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:10:38 America/Chicago] PHP Warning:  opendir(public_html/gaypage/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:10:38 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:10:38 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:11:18 America/Chicago] PHP Warning:  opendir(/home/delimeta/public_html/gaypage/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:11:18 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:11:18 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:11:21 America/Chicago] PHP Warning:  opendir(/home/delimeta/public_html/gaypage/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:11:21 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:11:21 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:11:29 America/Chicago] PHP Warning:  opendir(/home/delimeta/public_html/gaypage/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:11:29 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:11:29 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:14:08 America/Chicago] PHP Warning:  opendir(Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:14:08 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:14:08 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:14:10 America/Chicago] PHP Warning:  opendir(Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:14:10 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:14:10 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:14:36 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:14:36 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:14:36 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:14:38 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:14:38 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:14:38 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:14:40 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:14:40 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:14:40 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:15:51 America/Chicago] PHP Warning:  opendir(/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:15:51 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:15:51 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:15:52 America/Chicago] PHP Warning:  opendir(/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:15:52 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:15:52 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:15:53 America/Chicago] PHP Warning:  opendir(/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:15:53 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:15:53 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:16:11 America/Chicago] PHP Warning:  opendir(/Uploader/uploads/images/himym_connect_banner.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:16:11 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:16:11 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:16:47 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:16:47 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:16:47 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:16:49 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:16:49 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:16:49 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:17:15 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:17:15 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:17:15 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:21:46 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:21:48 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:00 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:22:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 70
+[26-Aug-2015 09:23:45 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/adsfadsfsadf.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:23:45 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:23:45 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:24:02 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/adsfadsfsadf.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:24:02 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:24:02 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:24:04 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/adsfadsfsadf.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 14
+[26-Aug-2015 09:24:04 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:24:04 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 21
+[26-Aug-2015 09:28:28 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:29 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:30 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:31 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:32 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:56 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/adsfadsfsadf.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:28:56 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:56 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:28:57 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/adsfadsfsadf.png): failed to open dir: No such file or directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:28:57 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:28:57 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:29:21 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:29:21 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:29:21 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:29:22 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:29:22 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:29:22 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:29:23 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:29:23 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:29:23 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:29:24 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:29:24 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:29:24 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:29:24 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:29:24 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:29:24 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:29:25 America/Chicago] PHP Warning:  opendir(../Uploader/uploads/images/himym_connect_banner.png): failed to open dir: Not a directory in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 15
+[26-Aug-2015 09:29:25 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, string given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 16
+[26-Aug-2015 09:29:25 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 22
+[26-Aug-2015 09:37:01 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:37:01 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:37:01 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:37:01 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:37:01 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:37:01 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:37:33 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:37:33 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:37:33 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:37:33 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:37:33 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:37:33 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:37:34 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:37:34 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:37:34 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:37:34 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:37:34 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:37:34 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:37:35 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:37:35 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:37:35 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:37:35 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:37:35 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:37:35 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:37:37 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:37:37 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:37:37 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:37:37 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:37:37 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:37:37 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:37:38 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:37:38 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:37:38 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:37:38 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:37:38 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:37:38 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:38:03 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:38:03 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:38:03 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:38:03 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:38:03 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:38:03 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:38:04 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:38:04 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:38:04 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:38:04 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:38:04 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:38:04 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:38:12 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:38:12 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:38:12 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:38:12 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:38:12 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:38:12 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:38:37 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:38:37 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:38:37 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:38:37 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:38:37 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:38:37 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:38:46 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:38:46 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:38:46 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:38:46 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:38:46 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:38:46 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  imagecreatefrompng(): '../Uploader/uploads/images/' is not a valid PNG file in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:38:59 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  imagecreatefrompng(): '../Uploader/uploads/images/' is not a valid PNG file in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:39:01 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  imagecreatefrompng(): '../Uploader/uploads/images/' is not a valid PNG file in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 39
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 43
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 44
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  Division by zero in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 48
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 51
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 54
+[26-Aug-2015 09:39:30 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 57
+[26-Aug-2015 09:39:32 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '}' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 09:39:42 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '}' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 09:39:43 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '}' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
+[26-Aug-2015 09:39:44 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '}' in /home/delimeta/public_html/gaypage/Modules/CreateThumbnailClass.php on line 33
